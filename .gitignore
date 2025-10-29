@@ -1,0 +1,21 @@
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv
+venv/
+
+# Data
+data/raw/
+data/processed/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
