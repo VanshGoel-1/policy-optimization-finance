@@ -7,11 +7,15 @@ matplotlib==3.8.1
 jupyterlab==4.2.1
 pyarrow==12.0.1
 
-# Deep learning
+# Deep learning (Use CONDA for installation, not PIP)
+# We list them here for documentation, but recommend installing via
+# conda install pytorch torchvision cpuonly -c pytorch
 torch
 torchvision
 
-# Offline RL
+# Offline RL (Use CONDA for installation)
+# We list it here, but recommend installing via
+# conda install d3rlpy -c conda-forge
 d3rlpy
 
 # Kaggle API for dataset download
