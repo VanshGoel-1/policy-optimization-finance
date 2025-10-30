@@ -58,7 +58,7 @@ policy-optimization-finance/
 
 1.  **Clone Repository:**
     ```bash
-    git clone [Paste Your Repo URL Here]
+    git clone https://github.com/VanshGoel-1/policy-optimization-finance/
     cd policy-optimization-finance
     ```
 2.  **Create & Activate Environment:**
